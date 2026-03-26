@@ -1,4 +1,4 @@
-# Infinity Minesweeper
+# Infinite Minesweeper
 
 An infinite, endlessly scrollable Minesweeper game built with Vue 3 + TypeScript + Canvas API.
 
