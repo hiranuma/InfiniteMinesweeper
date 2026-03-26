@@ -2,6 +2,9 @@
 
 An infinite, endlessly scrollable Minesweeper game built with Vue 3 + TypeScript + Canvas API.
 
+![game](https://github.com/user-attachments/assets/6257abf3-837e-4094-a1ce-0d4e53603afc)
+
+
 ## How to Play
 
 ### Goal
